@@ -1,2 +1,3 @@
-# hello-world
-GitHub Tutorial
+# About me
+
+I am Krishna Chaitanya pursuing B.Tech in CSE at GITAM University. WEB Development, Mobile App Development and Machine learning are my interests.
